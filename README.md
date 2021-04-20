@@ -1,4 +1,4 @@
-# gdp_analysis
+# GDP(PPP) Analysis
 GDP(PPP) Data on Wikipedia analysis 
 
 
